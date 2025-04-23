@@ -37,34 +37,13 @@ step: 9800, train loss: 2.697, val loss: 3.674
 2.935636520385742
 
 
-## 📷 Test Logs (Sample)
+## 💬 Example Outputs
 
+**Prompt:** You are stupid  
+**Completion:** you are stupid at ? I'm sweating up a bit too slow down . I'm not sure . What were you glad you
 
-(cuda) PS C:\LLM> python chatbot.py -batch_size 32
-batch size: 32
-cuda
-loading model parameters...
-loaded successfully!
-Prompt:
-You are stupid
-cuda
-loading model parameters...
-loaded successfully!
-Prompt:
-You are stupid
-Completion:
-you are stupid at ? I'm sweating up a bit too slow down . I'm not sure . What were you glad you
+**Prompt:** what is your name?  
+**Completion:** what is your name ? Tim , your mother looks wonderful in China . Oh wow , that sounds fantastic ! What a beautiful
 
-
-
-Prompt:
-what is your name?
-Completion:
-what is your name ? Tim , your mother looks wonderful in China . Oh wow , that sounds fantastic ! What a beautiful
-
-Prompt:
-can you give some cakes?
-Completion:
-can you give some cakes ? We have reduced emission of plus a project . I've got many items too many things to do .
-
-Prompt:
+**Prompt:** can you give some cakes?  
+**Completion:** can you give some cakes ? We have reduced emission of plus a project . I've got many items too many things to do .
