@@ -27,14 +27,21 @@ This project implements a GPT-style language model trained from scratch using Py
 
 ---
 
-## 📉 Training Logs (Sample)
+## 📈 Training Progress
 
-step: 9000, train loss: 2.780, val loss: 3.722
-step: 9200, train loss: 2.733, val loss: 3.716
-step: 9400, train loss: 2.704, val loss: 3.709
-step: 9600, train loss: 2.730, val loss: 3.637
-step: 9800, train loss: 2.697, val loss: 3.674
-2.935636520385742
+| Steps  | Train Loss | Val Loss | 
+|--------|------------|----------|
+| 0      | 4.294      | 4.325    |
+| 1,000  | 4.000      | 4.134    | 
+| 2,000  | 3.841      | 4.015    | 
+| 3,000  | 3.662      | 3.963    |
+| 4,000  | 3.513      | 3.869    |
+| 5,000  | 3.322      | 3.782    |
+| 6,000  | 3.262      | 3.739    |
+| 7,000  | 3.069      | 3.712    |
+| 8,000  | 2.899      | 3.715    |
+| 9,000  | 2.780      | 3.722    |
+| 9,800  | 2.697      | 3.674    | 
 
 
 ## 💬 Example Outputs
